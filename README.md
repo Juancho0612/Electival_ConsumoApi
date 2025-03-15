@@ -1,22 +1,22 @@
 # ElectivaI
 
-**Nombre de la materia:** Electiva I
+**Course Name:** Electiva I
 
-**Nombre del proyecto:** Taller 1 - App paises consutmo de api
+**Project Name:** Workshop 1 - Country App API Consumption
 
-**Integrantes:** 
+**Team Members:** 
 * Styven Aguirre Maldonado
 * Juan David Alzate Zapata
   
-**Descripción:**
-Esta aplicación permite a los usuarios buscar información sobre países específicos ingresando el nombre del país en una barra de búsqueda. La aplicación muestra una lista de países con sus respectivas banderas, nombres, capitales y regiones. Si no se encuentra ningún país, se muestra un mensaje indicando que no se encontraron resultados.
+**Description:**
+This application allows users to search for information about specific countries by entering the country's name in a search bar. The application displays a list of countries with their respective flags, names, capitals, and regions. If no country is found, a message is displayed indicating that no results were found.
 
-**Tecnologias:** 
+**Technologies:** 
 - React
 - Tailwind CSS
-- API de REST Countries
+- REST Countries API
 
-**Instrucciones de compilación y ejecución:** 
-1. Clonar el repositorio https://github.com/Juancho0612/Electival_ConsumoApi
-2. Ejecutar npm i
-3. npm run dev
+**Build and Execution Instructions:** 
+1. Clone the repository https://github.com/Juancho0612/Electival_ConsumoApi
+2. Run `npm i`
+3. Run `npm run dev`
